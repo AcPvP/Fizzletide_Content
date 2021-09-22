@@ -83,7 +83,7 @@ VALUES (1910490,   1,   33556445) /* Setup */
                                    Wield Tachi (23699) | Probability: 33%
                                    Wield Yaoji (23709) | Probability: 33%
                                    Wield Acid Yari (23721) | Probability: 34% */
-     , (1910490,  35,       2001) /* DeathTreasureType - Loot Tier: 8+ */;
+     , (1910490,  35,       52003) /* DeathTreasureType - Loot Tier: 8+ */;
 
 INSERT INTO `weenie_properties_attribute` (`object_Id`, `type`, `init_Level`, `level_From_C_P`, `c_P_Spent`)
 VALUES (1910490,   1, 300, 0, 0) /* Strength */

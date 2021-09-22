@@ -82,7 +82,7 @@ VALUES (1910203,   1,   33556426) /* Setup */
      , (1910203,   7,  268436009) /* ClothingBase */
      , (1910203,   8,  100667940) /* Icon */
      , (1910203,  22,  872415321) /* PhysicsEffectTable */
-     , (1910203,  35,        2001) /* DeathTreasureType - Loot Tier: 8+ */;
+     , (1910203,  35,        52003) /* DeathTreasureType - Loot Tier: 8+ */;
 
 INSERT INTO `weenie_properties_generator` (`object_Id`, `probability`, `weenie_Class_Id`, `delay`, `init_Create`, `max_Create`, `when_Create`, `where_Create`, `stack_Size`, `palette_Id`, `shade`, `obj_Cell_Id`, `origin_X`, `origin_Y`, `origin_Z`, `angles_W`, `angles_X`, `angles_Y`, `angles_Z`)
 VALUES (1910203, -1, 1910202/* weenie */, 60 /* respawn time */, 3 /* spawn amount */, 3 /*max spawn */, 1 /* spawn when 1 dies */, 2 /* changes scatter type? */, -1, 0 /* color */, 0, 0, 0, 0, 0, 1, 0, 0, 0);
